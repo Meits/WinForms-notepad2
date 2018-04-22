@@ -1,0 +1,19 @@
+D:\step\winforms\dz4\001\dz4-1\dz4-1\bin\Debug\dz4-1.exe.config
+D:\step\winforms\dz4\001\dz4-1\dz4-1\bin\Debug\dz4-1.exe
+D:\step\winforms\dz4\001\dz4-1\dz4-1\bin\Debug\dz4-1.pdb
+D:\step\winforms\dz4\001\dz4-1\dz4-1\obj\Debug\dz4_1.Form1.resources
+D:\step\winforms\dz4\001\dz4-1\dz4-1\obj\Debug\dz4_1.Properties.Resources.resources
+D:\step\winforms\dz4\001\dz4-1\dz4-1\obj\Debug\dz4-1.csproj.GenerateResource.Cache
+D:\step\winforms\dz4\001\dz4-1\dz4-1\obj\Debug\dz4-1.exe
+D:\step\winforms\dz4\001\dz4-1\dz4-1\obj\Debug\dz4-1.pdb
+D:\step\winforms\dz4\001\dz4-1\dz4-1\obj\Debug\dz4-1.csprojResolveAssemblyReference.cache
+C:\Users\MAK\Documents\Visual Studio 2017\project\WinForms-notepad1-master\WinForms-notepad1-master\dz4-1\bin\Debug\dz4-1.exe.config
+C:\Users\MAK\Documents\Visual Studio 2017\project\WinForms-notepad1-master\WinForms-notepad1-master\dz4-1\bin\Debug\dz4-1.exe
+C:\Users\MAK\Documents\Visual Studio 2017\project\WinForms-notepad1-master\WinForms-notepad1-master\dz4-1\bin\Debug\dz4-1.pdb
+C:\Users\MAK\Documents\Visual Studio 2017\project\WinForms-notepad1-master\WinForms-notepad1-master\dz4-1\obj\Debug\dz4-1.csprojResolveAssemblyReference.cache
+C:\Users\MAK\Documents\Visual Studio 2017\project\WinForms-notepad1-master\WinForms-notepad1-master\dz4-1\obj\Debug\dz4_1.Form1.resources
+C:\Users\MAK\Documents\Visual Studio 2017\project\WinForms-notepad1-master\WinForms-notepad1-master\dz4-1\obj\Debug\dz4_1.Properties.Resources.resources
+C:\Users\MAK\Documents\Visual Studio 2017\project\WinForms-notepad1-master\WinForms-notepad1-master\dz4-1\obj\Debug\dz4-1.csproj.GenerateResource.Cache
+C:\Users\MAK\Documents\Visual Studio 2017\project\WinForms-notepad1-master\WinForms-notepad1-master\dz4-1\obj\Debug\dz4-1.exe
+C:\Users\MAK\Documents\Visual Studio 2017\project\WinForms-notepad1-master\WinForms-notepad1-master\dz4-1\obj\Debug\dz4-1.pdb
+C:\Users\MAK\Documents\Visual Studio 2017\project\WinForms-notepad1-master\WinForms-notepad1-master\dz4-1\obj\Debug\dz4_1.Form2.resources
